@@ -25,7 +25,7 @@ The graphic user interface of Application must offer the option for change writi
 
 ### 4.1.6 Date and time format
 
-### 4.1.7 Template specifiction
+### 4.1.7 Template specification
 
 ### 4.1.8 Header and footer
 
