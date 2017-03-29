@@ -2,12 +2,12 @@
 
 ## 4.1 Level 1
 
-### 4.1.1 Writing mode of Mongolian
+### 4.1.1 Writing mode of Mongolian script
 
-The general word processing application must satisfy the  requirement of Writing mode of Mongolian script.  
+The Mongolian universal editor must satisfy the  requirement for Writing mode of Mongolian script.  
 The figure 1 represents both Mongolian text with "tb-lr" and "tb-rl" writing mode.
 
-The graphic user interface of Application must offer the option to change layout mode, the default option for Mongolian text must be "tb-lr"
+The graphic user interface of Application must offer the option for change writing mode. The default option for Mongolian text must be "tb-lr"
 
 ### 4.1.2 Paragraph
 
